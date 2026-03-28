@@ -1,0 +1,4 @@
+fastapi
+uvicorn
+ollama  # model= tinyllama, phi3:mini, ... like
+pydantic
